@@ -2,19 +2,19 @@
 Blockchain yazılımcısı olarak özel taktiğimle ön satıştaki coinler arasından nasıl güvenilir olan ön satışları bulduğumu gösteriyorum. Şu ana kadar bu taktikle 23 doğru 1 yanlış yatırım yaptık. Hiçbir ücret istemiyorum. Blockchain yazılımcısı olarak ve 2014ten beri sektörün bilfiil içinde olan ve kazancını büyük kripto borsalarından birinde çalışarak kazanan ekonomik durumu iyi bir yazılımcıyım. O zaman niye paylaşıyorsun derseniz açıkçası ön satışlardaki refli linkimle siz katıldıkça benim yatırımım daha çok büyümüş oluyor. Sizin ekstra bir kârınız olmuyor. Ama en büyük kârınız benim tüm ömrümü verdiğim yazılım alanının güvenilir coin bulmakta size olan kârı olacak zaten. Biliyorsunuz ön satışların %99'u sahte. Paranızı alıp kaçıyorlar. Ben ise 2 yıldır kendi özel taktiğimle ön satışlara yatırım yapıyorum. Onun öncesinde ise 1 yıl kadar uzaktan ön satışları izledim ve taktiğimin çalışıp çalışmayacağına emin oldum. 
 <br><br>
 Kısaca özetlemem gerekirse: bu taktikle ön satışta toplanan tüm miktarın toplandığı akıllı kontratın ve tokenın kendi kontratının tüm kodlarını detaylı olarak inceliyorum. Aynı kodlarla kendim testnet ağında proje oluşturup tüm denemeleri yapıyorum. Eğer toplanan miktar kodlarda otomatik olarak likiditeye yüklenecek ve katılan yatırımcılara otomatik olarak claim edilecekse o ön satışa yatırım yapıyorum. Yani sadece %100 güvenli bulduğum tokenları telegramımda paylaşıyorum. Bildiğiniz üzere ön satış fiyatlarıyla, tokenların liste fiyatları arasında her zaman en az 2x-3xlik bir fark oluyor. Token listelendiği anda %90 satış yapıp kârımızı alıp çıkıyoruz. Kalanı da artık kafanıza göre ister satar ister beklersiniz. Bakın ben tokenın ne kadar yükseleceğini vesaire bilemem. Zaten kimse bilemez. Benimki sadece kodlara bakarak tokenın cüzdanlarımıza kesin olarak otomatik şekilde gönderileceğini bilmek ve tokenın ön satışta toplanan tüm miktarının likiditeye yükleneceğinden emin olmaktan ibaret. Şu ana kadar 1 kere yanıldık. Onda da maalesef luna faciasıyla aynı güne denk gelen bir ön satışta ethereum ağı çok sıkışık bir gün yaşadığı için token listelendiği anda satış yapamadık. Birsüre sonra rugpull yedik. Bu taktiğimle çok fazla ön satışa yatırım yapamıyoruz çünkü %99'u yalan dolan. Ama yaptığımız yatırımlarda da %100 garantili olarak iş yapıyoruz.
-
+<br><br>
 Her neyse dediğim gibi ekonomik durumum zaten iyi. Yurtdışında yaşıyorum ve evim-arabam var. Ön satışlara da sağlam miktarlarda yatırım yapıyorum ve sizlere de tüm kripto portföyümü direkt olarak ekran görüntüleriyle gösteriyorum. Ben bu işten hem zevk alıyorum hem de her ön satışta 1 yılda çalışarak kazanacağım parayı kazanıyorum ki ortalamadan çok yüksek maaşlı bir işim var. Tabii ki ön satışlarda kendi refli linkimi paylaşıyorum. O kadar da olsun. Şimdi aşağıda bir ön satış paylaşıyorum.
-
-Proje: SiftAI
-Ön Satış Bitişi: 24 Şubat 2025
-Listeleme: 24 Şubat 2025 (Uniswap)
-Ön Satış Presale Fiyatı: $0.10
-Listeleme Fiyatı: $0.594 (x6)
-Website: <a target="_blank" href="https://siftai.net">https://siftai.net</a>
+<br><br>
+Proje: SiftAI<br>
+Ön Satış Bitişi: 24 Şubat 2025<br>
+Listeleme: 24 Şubat 2025 (Uniswap)<br>
+Ön Satış Presale Fiyatı: $0.10<br>
+Listeleme Fiyatı: $0.594 (x6)<br>
+Website: <a target="_blank" href="https://siftai.net">https://siftai.net</a><br>
 Ön Satış Katılma Linki (benim refimle): <a target="_blank" href="https://buy.siftai.net/#MustbeFunnyRef">https://buy.siftai.net/#MustbeFunnyRef</a>
-
+<br><br>
 İsterseniz bu projeye hiç yatırım yapmayıp sadece listeleme gününe kadar takip edebilirsiniz. Ondan sonra olanları görünce zaten otomatik olarak beni takip etmeye başlayacaksınız. Yazının bundan sonrasını okumanıza gerek yok. İnternetten ön satışlarla ilgili bazı bilgileri derleyip paylaştım.
-
+<br><br><br>
 100x Potansiyelli Ön Satıştaki Coinler: Fırsat mı, Risk mi?
 Kripto dünyası son zamanlarda yine hareketli. Herkes "ön satıştaki coinler" diye bir şey duyup heyecanlanıyor. Özellikle de "100x potansiyelli coinler" diye duyurulan projeler, insanların gözünü döndürüyor. Peki, bu ön satış coinler gerçekten 100x yapar mı? Yoksa sadece bir balon mu? Ön Satıştaki Coinler Nedir? Kanka, ön satıştaki coinler, henüz tam olarak piyasaya sürülmemiş kripto paralar. Yani, proje ekibi bu coinleri daha piyasaya çıkmadan önce, erken yatırımcılara satıyor. Genelde de bu coinler, piyasaya çıktıktan sonraki fiyatından çok daha ucuza satılıyor. İşte bu yüzden insanlar "ön satış coin" alıp, sonra 10x, 100x falan yapar mı diye heyecanlanıyor.
 
