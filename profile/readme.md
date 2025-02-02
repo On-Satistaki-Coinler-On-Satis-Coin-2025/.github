@@ -99,6 +99,13 @@ Fakat unutmayın, **yatırım yapmadan önce detaylı araştırma yapmalı, risk
 
 Eğer yeni çıkan coinler ve ön satıştaki token projeleri hakkında daha fazla bilgi almak istiyorsanız, bizi takip etmeye devam edin!
 
-
-
-
+Ön Satıştan Token Satın Almak
+Kripto para dünyasında yeni projelere erken dahil olup para kazanmanın en popüler yolu ön satıştaki tokenları satın almaktır. Ama bu fırsatlar büyük kazançlar sunabileceği gibi, riskler de içerir. Bu yazıda ön satışta token almak isteyenler için temel bilgileri ve dikkat edilmesi gereken noktaları ele alacağız.
+Ön Satış Nedir?
+Bir kripto para projesi, tokenlarını piyasaya sürmeden önce erken destekçilere satışa sunar. Bu dönemde yatırımcılar, genellikle piyasa fiyatından daha uygun bir fiyata token satın alma şansı elde ederler.
+Ön Satışa Katılmanın Avantajları
+Coini olduğundan çok daha düşük fiyata alarak piyasaya çıktığında gelen yükselişlerden kazanç elde edebilirsiniz.ayrıca bir çok airdrop fırsatlarından da yararlanabilirsiniz.
+Ön Satışta Token Nasıl Alınır?
+Projeleri araştırıp size en uygununu bulun.Daha sonra projenin resmi sosyal medya hesaplarını bulup takip ederek katılım şartlarını öğrenin.
+Son olarak
+Ön satıştan token almak yüksek getiri getireceği gibi büyük kayıplara da yol açabilir.bundan dolayı projeleri dikkatli şekilde inceleyin ve düşük miktardaki paralarla satın alın.
