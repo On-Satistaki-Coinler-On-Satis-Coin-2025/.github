@@ -5,6 +5,7 @@ Kısaca özetlemem gerekirse: bu taktikle ön satışta toplanan tüm miktarın 
 <br><br>
 Her neyse dediğim gibi ekonomik durumum zaten iyi. Yurtdışında yaşıyorum ve evim-arabam var. Ön satışlara da sağlam miktarlarda yatırım yapıyorum ve sizlere de tüm kripto portföyümü direkt olarak ekran görüntüleriyle gösteriyorum. Ben bu işten hem zevk alıyorum hem de her ön satışta 1 yılda çalışarak kazanacağım parayı kazanıyorum ki ortalamadan çok yüksek maaşlı bir işim var. Tabii ki ön satışlarda kendi refli linkimi paylaşıyorum. O kadar da olsun. Şimdi aşağıda bir ön satış paylaşıyorum.
 <br><br>
+---
 Proje: SiftAI<br>
 Ön Satış Bitişi: 24 Şubat 2025<br>
 Listeleme: 24 Şubat 2025 (Uniswap)<br>
@@ -12,9 +13,11 @@ Listeleme: 24 Şubat 2025 (Uniswap)<br>
 Listeleme Fiyatı: $0.594 (x6)<br>
 Website: <a target="_blank" href="https://siftai.net">https://siftai.net</a><br>
 Ön Satış Katılma Linki (benim refimle): <a target="_blank" href="https://buy.siftai.net/#MustbeFunnyRef">https://buy.siftai.net/#MustbeFunnyRef</a>
+---
 <br><br>
 İsterseniz bu projeye hiç yatırım yapmayıp sadece listeleme gününe kadar takip edebilirsiniz. Ondan sonra olanları görünce zaten otomatik olarak beni takip etmeye başlayacaksınız. Yazının bundan sonrasını okumanıza gerek yok. İnternetten ön satışlarla ilgili bazı bilgileri derleyip paylaştım.
 <br><br><br>
+---
 100x Potansiyelli Ön Satıştaki Coinler: Fırsat mı, Risk mi?
 Kripto dünyası son zamanlarda yine hareketli. Herkes "ön satıştaki coinler" diye bir şey duyup heyecanlanıyor. Özellikle de "100x potansiyelli coinler" diye duyurulan projeler, insanların gözünü döndürüyor. Peki, bu ön satış coinler gerçekten 100x yapar mı? Yoksa sadece bir balon mu? Ön Satıştaki Coinler Nedir? Kanka, ön satıştaki coinler, henüz tam olarak piyasaya sürülmemiş kripto paralar. Yani, proje ekibi bu coinleri daha piyasaya çıkmadan önce, erken yatırımcılara satıyor. Genelde de bu coinler, piyasaya çıktıktan sonraki fiyatından çok daha ucuza satılıyor. İşte bu yüzden insanlar "ön satış coin" alıp, sonra 10x, 100x falan yapar mı diye heyecanlanıyor.
 
