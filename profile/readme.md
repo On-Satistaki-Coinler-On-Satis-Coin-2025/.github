@@ -11,7 +11,7 @@ Her neyse dediğim gibi ekonomik durumum zaten iyi. Yurtdışında yaşıyorum v
 <b>
 Proje: Porcemic PORCEM<br>
 Ön Satış Bitişi: 31 Mayıs 2025<br>
-Listeleme: 1 Nisan 2025 (Uniswap)<br>
+Listeleme: 1 Haziran 2025 (Uniswap)<br>
 Ön Satış Presale Fiyatı: $0.002619<br>
 Listeleme Fiyatı: $0.015 (x6)<br>
 Website: <a target="_blank" href="https://porcemic.com">https://porcemic.com</a><br>
